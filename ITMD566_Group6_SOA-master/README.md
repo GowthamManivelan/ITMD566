@@ -4,5 +4,5 @@ Web-services project using Java(TrucksApp) for publishing services and .Net(WebS
 Submitted by
 
 GOWTHAM MANIVELAN - A20353097
-MEGSHI THAKUR - 
-JENNY FENG -
+MEGSHI THAKUR - A20392177
+JENNY FENG - A20252029
